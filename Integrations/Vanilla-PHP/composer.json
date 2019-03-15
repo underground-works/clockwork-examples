@@ -1,0 +1,13 @@
+{
+    "name": "its/vanilla-php-application",
+    "type": "project",
+    "require": {
+        "itsgoingd/clockwork": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "its",
+            "email": "its@underground.works"
+        }
+    ]
+}
