@@ -12,4 +12,4 @@ $clockwork = Clockwork::init([
 	'storage_files_path' => __DIR__ . '/clockwork'
 ]);
 
-$clockwork->returnMetadata();
+$clockwork->handleMetadata();

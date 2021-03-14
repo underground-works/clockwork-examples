@@ -2,7 +2,7 @@
     "name": "its/vanilla-php-application",
     "type": "project",
     "require": {
-        "itsgoingd/clockwork": "^3.1"
+        "itsgoingd/clockwork": "^5.0"
     },
     "authors": [
         {
